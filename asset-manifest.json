@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DanielOttah/ztm_Robofriends/static/css/main.13272f93.chunk.css",
+    "main.js": "/DanielOttah/ztm_Robofriends/static/js/main.3a5087f8.chunk.js",
+    "main.js.map": "/DanielOttah/ztm_Robofriends/static/js/main.3a5087f8.chunk.js.map",
+    "runtime-main.js": "/DanielOttah/ztm_Robofriends/static/js/runtime-main.a65120ce.js",
+    "runtime-main.js.map": "/DanielOttah/ztm_Robofriends/static/js/runtime-main.a65120ce.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/DanielOttah/ztm_Robofriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.7620fde1.chunk.js": "/DanielOttah/ztm_Robofriends/static/js/2.7620fde1.chunk.js",
+    "static/js/2.7620fde1.chunk.js.map": "/DanielOttah/ztm_Robofriends/static/js/2.7620fde1.chunk.js.map",
+    "index.html": "/DanielOttah/ztm_Robofriends/index.html",
+    "precache-manifest.8d9291afe5a18121df53f45a9b65bea1.js": "/DanielOttah/ztm_Robofriends/precache-manifest.8d9291afe5a18121df53f45a9b65bea1.js",
+    "service-worker.js": "/DanielOttah/ztm_Robofriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/DanielOttah/ztm_Robofriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.13272f93.chunk.css.map": "/DanielOttah/ztm_Robofriends/static/css/main.13272f93.chunk.css.map",
+    "static/js/2.7620fde1.chunk.js.LICENSE.txt": "/DanielOttah/ztm_Robofriends/static/js/2.7620fde1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65120ce.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.7620fde1.chunk.js",
+    "static/css/main.13272f93.chunk.css",
+    "static/js/main.3a5087f8.chunk.js"
+  ]
+}
